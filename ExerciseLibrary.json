@@ -1,0 +1,74 @@
+{
+//sport-specific exercise library for workout generator
+//choose between 3 sports for now and then expand
+//will make key values links to videos
+
+
+"bodybuildingCalves":[
+    {"calfRaisesBW":"", "calfRaisesW":""}
+    
+],
+
+"bodybuildingQuads":[
+    {}
+],
+
+"bodybuildingHammies":[
+    {}
+],
+
+"bodybuildingGlutes":[
+    {}
+],
+
+"bodybuildingTransverse":[
+    {}
+],
+
+"bodybuildingRectus":[
+    {}
+],
+
+"bodybuildingLowerBack":[
+    {}
+],
+
+"bodybuildingUpperBack":[
+    {}
+],
+
+"bodybuildingChest":[
+    {}
+],
+
+"bodybuildingTricep":[
+    {}
+],
+
+"bodybuildingBicep":[
+    //bicep
+    {},
+    //forearm
+    {}
+],
+
+"bodybuildingShoulder":[
+    //rearDelt
+    {},
+    //frontDelt
+    {},
+    //sideDelt
+    {}
+],
+//---end of bodybuilding
+
+"Powerlifting":[
+
+],
+
+"Crossfit": [
+
+],
+
+
+}
