@@ -23,41 +23,41 @@
 
 "bodybuildingAbs":[
     //rectus
-    {},
+    {"crunchesBW":"", "crunchesW":"", "plankBW":"", "plankW":""},
     //transverse
-    {}
+    {"hangingLegUpsBW":"", "hangingLegUpsW":"", "kneeUps":""}
 ],
 
 "bodybuildingLowerBack":[
-    {}
+    {"supermansBW":"", "supermansW":"", "backExtBW":"", "backExtW":""}
 ],
 
 "bodybuildingUpperBack":[
-    {}
+    {"seatedCableRowNG":"", "seatedCableRow":"", "seatedCableRowWG":""}
 ],
 
 "bodybuildingChest":[
-    {}
+    {"benchPressCG":"", "benchPressWG":"", "benchPress":"", "floorPress":""}
 ],
 
 "bodybuildingTricep":[
-    {}
+    {"skullCrusher":"", "tricepExtRope":"", "tricepExtBar":"",}
 ],
 
 "bodybuildingBicep":[
     //bicep
-    {},
+    {"curls":"", "hammerCurls":""},
     //forearm
-    {}
+    {"forearmCurls":""}
 ],
 
 "bodybuildingShoulder":[
     //rearDelt
-    {},
+    {"lyingDeltFlys":"", "standingDeltFlys":""},
     //frontDelt
-    {},
+    {"frontRaises":"", },
     //sideDelt
-    {}
+    {"standingSideRaises":"", "seatedSideRaises":""}
 ],
 //---end of bodybuilding
 
