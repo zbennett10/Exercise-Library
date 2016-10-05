@@ -10,22 +10,21 @@
 ],
 
 "bodybuildingQuads":[
-    {}
+    {"frontSquats":"", "backSquatsBW":"", "backSquatsW":"", "sprints100m":""}
 ],
 
 "bodybuildingHammies":[
-    {}
+    {"sprints100m":"", "oneLeggedRDL":"", "legCurls":""}
 ],
 
 "bodybuildingGlutes":[
-    {}
+    {"backSquatsBW":"", "backSquatsW":"", "lungesBW": "", "lungesW":"",}
 ],
 
-"bodybuildingTransverse":[
-    {}
-],
-
-"bodybuildingRectus":[
+"bodybuildingAbs":[
+    //rectus
+    {},
+    //transverse
     {}
 ],
 
